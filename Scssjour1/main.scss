@@ -1,0 +1,19 @@
+@import 'fondation/variables';
+@import 'elements/buttons';
+
+
+
+
+h1 {
+color: $main-color;
+}
+
+ul {
+    li {
+        color: $li-color;
+    }
+}
+
+h2 {
+    font-size: 2rem;
+}
